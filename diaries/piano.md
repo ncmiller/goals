@@ -11,9 +11,9 @@ decent musiciality.
 
 ## Saturday, January 21, 2017
 
-Created my initial goals and sub-goals. I've already got a bit of a head start
+Created my initial goals and sub-goals. I've got a bit of a head start
 since I've already learned two pieces from [First Lessons in
-Back](https://www.amazon.com/First-Lessons-Bach-Complete-Schirmers/dp/1423421922).
+Bach](https://www.amazon.com/First-Lessons-Bach-Complete-Schirmers/dp/1423421922).
 I've also been playing every day for the last week (since Jan 15).
 
 Playing in the morning will make it easier to reach my goal.
