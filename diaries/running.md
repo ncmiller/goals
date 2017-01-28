@@ -1,3 +1,41 @@
+## Saturday, January 28, 2017
+
+I ran all three days this week (MWF), making progress with each run:
+
+* Monday - 3.2 miles @ 7.2 mph
+* Wednesday - 3.2 miles @ 7.4 mph
+* Friday - 3.2 miles @ 7.6 mph
+
+I've nearly achieved my first small goal, which is a 25-minute 5k. Actually,
+I just looked this up, and apparently 5 km is only 3.107 miles, not 3.2.
+So I need to redo my goals. I believe I've hit the first one with my 7.6 mph
+pace.
+
+Here's a useful snippet of python for computing 5k times:
+
+```python
+from datetime import datetime, timedelta
+import math
+
+# How long will it take to run a 5K with a certain treadmill speed
+def time_for_5k(mph):
+  secs = ((mph/3.107)**-1)*3600.0
+  return datetime.fromtimestamp(secs).strftime('%M:%S')
+
+
+# What should the treadmill speed be to run a 5k in a certain time
+def mph_for_5k_time(mins, secs):
+  td = timedelta(minutes=mins, seconds=secs)
+  total_seconds = td.total_seconds()
+  mph = ((total_seconds/3600.0)/3.107)**-1
+
+  # Only keep one decimal place, and always round up
+  return math.ceil(mph*10.0)/10.0
+```
+
+So with my 7.6 mph pace, I've run the 5k in 24:31. In fact, I've very nearly
+reached my next small goal, which requires a 7.8 pace.
+
 ## Friday, January 20, 2017
 
 Ran 3.2 miles this morning at a 7.2 for 80% of the way and 7.0 for the
