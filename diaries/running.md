@@ -36,6 +36,10 @@ def mph_for_5k_time(mins, secs):
 So with my 7.6 mph pace, I've run the 5k in 24:31. In fact, I've very nearly
 reached my next small goal, which requires a 7.8 pace.
 
+*(Update)* - Was restless this evening, so I decided to do some running and
+knocked out a 5K at 7.8 mph, which completes my second sub-goal (sub-24)!
+I'm about a month and a half ahead of schedule. Now the real work begins.
+
 ## Friday, January 20, 2017
 
 Ran 3.2 miles this morning at a 7.2 for 80% of the way and 7.0 for the
