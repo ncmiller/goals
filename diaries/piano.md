@@ -6,10 +6,25 @@ be really polished.
 
 - [x] First Lessons in Bach, 1. Minuet
 - [x] First Lessons in Bach, 2. Minuet
-- [ ] First Lessons in Bach, 3. Minuet
+- [x] First Lessons in Bach, 3. Minuet
+- [ ] First Lessons in Bach, 4. Polonaise
 - [ ] Peacherine Rag (stretch piece)
 
 -----------------------
+
+## Saturday, February 7, 2017
+
+Played every day this, and finally finished up with the arpeggio Minuet in G.
+The trickiest part was playingit up to speed. 130 bpm felt about right, and
+I was able to play through the piece at that tempo yesterday, with no major
+mistakes and decent musicality.
+
+Moving onto the polonaise now - this is the first piece in the First Lessons
+book that I haven't heard before. I'd like to get into my fingers first before
+listening to someone else play it. My sight
+reading is very slow, but playing slowly helps me listen to and appreciate all
+the harmonies on the page. It might be my favorite part of the process - just
+hearing the notes for the first time.
 
 ## Saturday, January 28, 2017
 

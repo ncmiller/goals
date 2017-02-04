@@ -1,3 +1,26 @@
+## Saturday, February 4, 2017
+
+Another good week, ran MWF.
+
+My Monday run was rough. After a successful 7.8 mph run the Saturday before,
+I decided to go for 8.0, but only made it 2 miles into the run. I was
+completely gassed, so I dropped it down to 7.6, but only made it another half
+mile and called it quits for the day. Was not too happy about that.
+
+I stuck with the 7.8 pace for Wednesday and Friday. By Friday, 7.8 wasn't that
+bad. I was getting somewhat tired with about 0.5 miles to go in the 5K, but
+overall, it felt much easier.
+
+It's probably time to start mixing in some lower-intensity longer runs. I'm
+thinking a 10K at 7.0 mph should be doable. I'm feeling a little sick today,
+so it may be best to just relax this weekend.
+
+It seems the rule of thumb for long-distance running is - if you can sing
+you're going too slow, if you can't hold a conversation you're going too fast.
+I think my 5K pace is right at the upper end of barely being able to hold
+a conversation. But I think that's okay for 5K, because it's really not that
+long. I really like that I can be done with a 5K run in 25 minutes or less.
+
 ## Saturday, January 28, 2017
 
 I ran all three days this week (MWF), making progress with each run:
