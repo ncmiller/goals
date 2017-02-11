@@ -29,7 +29,7 @@ Total MPW: 22.4
 ```
 
 I'll give this a shot for a bit. After a couple of weeks of this, I'll
-probably start mixing in more at least 2 high intensity workouts per week
+probably start mixing in more high intensity workouts per week
 so that I can continue to chip away at my sub-20 goal.
 
 ## Saturday, February 4, 2017
