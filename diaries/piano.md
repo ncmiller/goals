@@ -12,6 +12,25 @@ be really polished.
 
 -----------------------
 
+## Saturday, February 11, 2017
+
+Played every day again this week. I'm pretty comfortable with the short
+polonaise, just trying to get it up to speed at 90 bpm, which feels about
+right (the suggested 100 bpm just sounds too fast to me).
+
+I'm pretty happy overall with how things are progressing. The only small
+exception might be that I wish I had more time to play on the days I run. And
+now that I plan to start running more days per week, I think it's time to
+start waking up at 6:30, which would give me roughly 45 minutes for running
+and 45 minutes for piano.
+
+It would certainly be helpful to have a teacher, since I feel like I could be
+doing things better from a technique perspective. But it doesn't seem like it
+would be worth it at this point. Perhaps later down the road when I've reached
+an intermediate level of playing. There are actually several colleges nearby
+that offer adult-extension classes in piano, so those may be worth looking
+into.
+
 ## Saturday, February 7, 2017
 
 Played every day this, and finally finished up with the arpeggio Minuet in G.

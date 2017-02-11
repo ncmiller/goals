@@ -1,3 +1,37 @@
+## Saturday, February 11, 2017
+
+This week was...okay. I ran MWF, so at least I showed up.
+
+```
+M: 4 miles @ 7.2 mph
+W: 3.1 miles @ 7.8 mph
+F: 2.15 miles @ 7.9 mph :(
+```
+
+The Friday run was dissapointing, since I thought I'd be able to handle the
+small speed increase, but my heart just couldn't keep up. It seems like 7.8
+mph for 5K is my upper limit right now.
+
+After reading a bit online ([this](https://drive.google.com/file/d/0B3TYR3d9S1s1dFpwa3E4NmZfOW8/view)
+page is really helpful), I think it makes sense to start running more days per
+week at a lower average intensity. Something like:
+
+```
+M: 3.1 miles @ 7.4 mph
+T: 3.1 miles @ 7.4 mph
+W: Rest
+T: 3.1 miles @ 7.8 mph
+F: 3.1 miles @ 7.4 mph
+S: 5.0 miles @ 6.6 mph
+S: 5.0 miles @ 6.6 mph
+
+Total MPW: 22.4
+```
+
+I'll give this a shot for a bit. After a couple of weeks of this, I'll
+probably start mixing in more at least 2 high intensity workouts per week
+so that I can continue to chip away at my sub-20 goal.
+
 ## Saturday, February 4, 2017
 
 Another good week, ran MWF.
