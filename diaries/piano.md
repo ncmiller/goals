@@ -7,10 +7,30 @@ be really polished.
 - [x] First Lessons in Bach, 1. Minuet
 - [x] First Lessons in Bach, 2. Minuet
 - [x] First Lessons in Bach, 3. Minuet
-- [ ] First Lessons in Bach, 4. Polonaise
+- [x] First Lessons in Bach, 4. Polonaise
+- [ ] First Lessons in Bach, 5. March
 - [ ] Peacherine Rag (stretch piece)
 
 -----------------------
+
+## Sunday, February 19, 2017
+
+I reached my first sub-goal of playing every day for a month. This is great,
+but there is a tiny bit of guilt because I missed a day last Friday
+(17th). I planned to play in the morning, but remembered my peer reviews for
+work were due that day, so I did those instead. I don't really think it's that
+big of a deal. The problem is that if you miss one day, then you can miss two
+days, and then there's no end to how many days you'll miss. But forcing myself
+to play for the last month has reinforced the habit enough that I don't feel
+like I'm in danger of quitting. My motivation isn't quite as strong as when
+I started, but once I sit down and start playing, it's fun again.
+
+Things are progressing nicely. I'm not making huge progress, but I definitely
+feel myself getting better, slowely but surely. I finished up the polonaise
+and I'm now on the march. Sight-reading is still very slow, but I get by.
+
+At this pace, I should have no problem reaching 20 completed pieces by year
+end.
 
 ## Saturday, February 11, 2017
 

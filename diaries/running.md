@@ -1,3 +1,46 @@
+## Sunday, February 19, 2017
+
+Ran a 10K for the first time yesterday. It was harder than expected, despite
+starting out a relatively slow place of 6.5 mph. In fact, I even had to lower
+to 6.3 mph for the last 1.5 miles. I'm not even sure what the limiting factor
+was - my breathing didn't feel too fast or heavy, my muscles felt fine; it was
+just hard! I feel great that I was able to do it on my first try, but not too
+happy with the pace, since it took an hour to run. I don't plan to run farther
+than 10k at any one time, and probably only once a week. If I can get my time
+down to 45 minutes, I'll be pretty happy, though that is probably just as hard
+or harder than a sub-20 5k.
+
+I ran a lot more this week - 5 out of 7 days, for a total of 18.65 miles, or
+about twice as much as last week. The plan was to run 6 days, but I added in
+an extra rest day due to soreness from lifting weights.
+
+Lifting weights last Sunday felt good, but I pushed it way too hard,
+considering it was the first time in a good 6 months. I was incredibly sore
+the first part of the week, to the point where I couldn't even fully extend my
+arms above my head. Even today, a full week later, I am sore, though I'm
+feeling good enough to hit the weights again. Sometimes another session
+actually helps relieve the soreness. I'll make sure to stretch better this
+time, and not use too much weight.
+
+I looked up some of Kevin Caster's race results, since he's the best runner
+I know personally. In May of last year, he ran the Downtown Melbourne 5K in 18:57.
+If he can do it, so can I.
+
+My plan is to run 6 days this week, mixing in 3 weightlifting sessions (SuWF),
+with one full rest day on Monday. Tuesday will be my max effort day.
+
+```
+M: Rest
+T: 3.1 miles @ 7.8 mph
+W: 3.1 miles @ 6.8 mph (after lifting)
+T: 3.1 miles @ 7.6 mph
+F: 3.1 miles @ 6.8 mph (after lifting)
+S: 6.25 miles @ 6.6 mph
+S: 4.0 miles @ 6.5 mph (after lifting)
+
+Total MPW: 22.65
+```
+
 ## Saturday, February 11, 2017
 
 This week was...okay. I ran MWF, so at least I showed up.
