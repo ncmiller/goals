@@ -13,6 +13,21 @@ be really polished.
 
 -----------------------
 
+## Sunday, February 26. 2017
+
+Pretty good week, though I had some short sessions early in the week (20
+minutes or so). I'm nearly "done" with the march. At first I didn't like this
+piece since, but I've since grown to like more than the others I've played so
+far. The articulation and speed give me a good challenge, and it reminds me of
+my drumming days, at least when it comes to practice. It's hard to explain,
+but practicing individual passages in this march is really fun and rewarding,
+more so than the other pieces. I'm going to account that to its more
+percussive nature - it just gels with me.
+
+I'm really looking forward to more advanced Bach pieces. I really enjoy
+listening on Youtube to the more advanced players, and can't wait until my
+head can be in that space!
+
 ## Sunday, February 19, 2017
 
 I reached my first sub-goal of playing every day for a month. This is great,

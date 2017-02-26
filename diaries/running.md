@@ -1,3 +1,29 @@
+## Sunday, February 26, 2017
+
+Okay, this was a pretty bad week, only 8.6 miles. My legs were sore from last Sunday until
+Thursday, which prevented me from running. I've decided it's probably a good
+idea to remove strength training for my legs, since they get enough of
+a workout by running. I was extra sore since it was the first leg
+workout in a while, but to reach my sub-20 goal, I need to prioritize running.
+I want my legs to be as fresh as possible. I'll still continue to do
+upper-body workout 3x a week.
+
+I absolutely love the new bluetooth headphones I purchased. Total game
+changer. Sure the sound quality may not be as good as wired, and there are
+occasional hiccups in the playback, but not having that wire makes things so
+much easier. I created a running playlist, mostly with electronic and techno
+music. It's doing its job - it really pumps me up. In particular, [The
+Heat](https://www.youtube.com/watch?v=EZgLXq0hIVs) really gets my blood
+flowing. I have to fight the urge to crank up the treadmill speed by 2 mph
+every time it comes on. I feel like I could go twice as fast when that song
+comes on! I need to fill out my playlist with some more stuff so it doesn't
+get stale. Right now, I've got ~35 songs, but I can tell it will get old soon.
+
+I could really use a perfect week, where I don't miss a single day, and I hit
+all my targets. So far so good - had a great workout today, with upper body
+followed by a 5K at 7 mph. I even bumped to 8.6 mph for the last half mile.
+The whole workout felt really great.
+
 ## Sunday, February 19, 2017
 
 Ran a 10K for the first time yesterday. It was harder than expected, despite
