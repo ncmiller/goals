@@ -8,10 +8,20 @@ be really polished.
 - [x] First Lessons in Bach, 2. Minuet
 - [x] First Lessons in Bach, 3. Minuet
 - [x] First Lessons in Bach, 4. Polonaise
-- [ ] First Lessons in Bach, 5. March
+- [x] First Lessons in Bach, 5. March
+- [x] First Lessons in Bach, 6. Minuet
+- [ ] First Lessons in Bach, 7. Minuet
 - [ ] Peacherine Rag (stretch piece)
 
 -----------------------
+
+## Sunday, March 5. 2017
+
+Things are coming along nicely. I think my sight-reading is getting a little
+better. Blazed through Minuet 6 in a few days, though it was pretty easy.
+I'm working on another easy minuet now. Still really enjoying playing all Bach
+all the time - it's so much better than the Alfred's books and their hokey
+songs which are a chore to listen to.
 
 ## Sunday, February 26. 2017
 

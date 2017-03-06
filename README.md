@@ -7,7 +7,7 @@ Personal goals for the near-term (next year or so). When it comes to goal tracki
 |:---|:---|:---|:---|
 | **Sub-20-minute 5k** | 25-minute 5K, 7.5 mph | February 15 | <ul><li> [x] Jan 27, 2017 </li></ul> |
 | | 24-minute 5K, 7.8 mph | March 15 | <ul><li> [x] Jan 28, 2017 </li></ul> |
-| | 23-minute 5K, 8.2 mph | April 30 | <ul><li> [ ] </li></ul> |
+| | 23-minute 5K, 8.2 mph | April 30 | <ul><li> [x] Mar 4, 2017 </li></ul> |
 | | 22-minute 5K, 8.5 mph | June 30 | <ul><li> [ ] </li></ul> |
 | | 21-minute 5K, 8.9 mph | September 30 | <ul><li> [ ] </li></ul> |
 | | 20-minute 5K, 9.4 mph | December 31 | <ul><li> [ ] </li></ul> |

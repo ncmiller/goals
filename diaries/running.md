@@ -1,3 +1,8 @@
+## Sunday, March 5. 2017
+
+A perfect week. I ran all 6 days (18.4 miles total), set a new PR (sub-23), and hit all my
+upper-body workouts. Let's do it again.
+
 ## Sunday, February 26, 2017
 
 Okay, this was a pretty bad week, only 8.6 miles. My legs were sore from last Sunday until
