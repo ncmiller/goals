@@ -1,3 +1,14 @@
+## Sunday, March 12. 2017
+
+Good week, though I did take an extra rest day on Friday. I ran 20.6 miles
+this week. My 10k run on Saturday felt really good at a nice and steady 6.7
+mph. I felt like I could have kept going for another 10k (though I was
+sweating a lot).
+
+Leaving for a FL vacation tomorrow. I'll pack some running clothes so I can
+run a bit while I'm there. At this point, I think it's harder to not run than
+it is to run.
+
 ## Sunday, March 5. 2017
 
 A perfect week. I ran all 6 days (18.4 miles total), set a new PR (sub-23), and hit all my

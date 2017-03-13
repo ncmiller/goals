@@ -10,10 +10,23 @@ be really polished.
 - [x] First Lessons in Bach, 4. Polonaise
 - [x] First Lessons in Bach, 5. March
 - [x] First Lessons in Bach, 6. Minuet
-- [ ] First Lessons in Bach, 7. Minuet
+- [x] First Lessons in Bach, 7. Minuet
+- [x] First Lessons in Bach, 8. Minuet
+- [ ] First Lessons in Bach, 9. March
 - [ ] Peacherine Rag (stretch piece)
 
 -----------------------
+
+## Sunday, March 12. 2017
+
+Missed practice on Saturday, but not too concerned about it. Breezed through
+the 3 minuets, and now onto another march. I feel like my process for learning
+new music is getting well refined - peck through the whole piece many times,
+string together full phrases at a slow tempo, string together multiple phrases at
+a slow tempo, make sure to capture all phrasing, then slowly crank up the
+tempo until I can play it at speed. My sight-reading is getting better, though
+I think it will take several years of practice until I'm "fluent" in the
+language.
 
 ## Sunday, March 5. 2017
 
