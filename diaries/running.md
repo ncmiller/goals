@@ -1,3 +1,29 @@
+## Saturday, March 25. 2017
+
+Went on vacation to FL last week, which made it tough to be consistent with
+running. Regardless, I still ran 3 days of the week, including a 10K. The
+weather was great, so it was fun to run outside. But I got a gigantor blister
+on my right foot. I think it was my socks - I ran out of the good running
+socks, so I had to wear my looser fitting cotton ones, which just soaked up
+all the sweat and brushed against my foot with each step. Socks matter!
+
+This week has been mostly back to normal (21 miles). Ran every day except Wednesday,
+which was my weights day. I think I will go down to 2 weightlifting days per
+week. It doesn't make sense to do more, given my goals and the fact that I'm
+losing weight. Just want to maintain my strength level as it is now.
+
+Set a new 10K PR today by running at a 7.0 mph pace. Didn't think I was going
+to make it, since about halfway through my arms started feeling numb and
+tingly. I didn't know what this meant, and was afraid I might start getting
+light headed. But I didn't panic and just kept going to see if it got any
+worse. Luckily it gradually went away. Not sure if I was doing something wrong
+that caused that or not. For the last 20 minutes of the run, there was a woman
+playing with her german shepard dog in the park, throwing the frisbee. Seeing that dog run
+full speed, jump high into the air, and catch the frisbee really gave me
+a burst of energy. I was able to coast through the rest of the run without any
+problems. It's weird how you think you're about to hit a wall, but if you just
+keep going a little further, the wall completely disappears.
+
 ## Sunday, March 12. 2017
 
 Good week, though I did take an extra rest day on Friday. I ran 20.6 miles

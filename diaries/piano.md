@@ -13,9 +13,25 @@ be really polished.
 - [x] First Lessons in Bach, 7. Minuet
 - [x] First Lessons in Bach, 8. Minuet
 - [ ] First Lessons in Bach, 9. March
-- [ ] Peacherine Rag (stretch piece)
 
 -----------------------
+
+## Saturday, March 25. 2017
+
+Was on vacation in FL last week, so couldn't play at all. But I got back into
+my routine this week and continued to work on the march. This piece is
+defintely a step up in difficulty. Not sure what exaclty makes it more
+difficult. I think the notes are just spaced out a little more than I'm used
+to. I'm also trying to limit the amount that I look down at my hands, so have
+been trying to play the piece while looking at the score the entire time.
+Currently playing all the way through at half speed, 60 bpm.
+
+I'm also going to try to get into a habit of reading new music every day. I've
+got a good collection of easy sight-reading pieces which get gradually more
+difficult. I think if I can get really good at sight-reading, it will
+bootstrap my learning process, as I will be much more eager to learn new
+pieces. Reading definitely feels like the weakest link, and is the main reason
+I'm shooting for the goal of 20 pieces.
 
 ## Sunday, March 12. 2017
 
