@@ -12,11 +12,44 @@ be really polished.
 - [x] First Lessons in Bach, 6. Minuet
 - [x] First Lessons in Bach, 7. Minuet
 - [x] First Lessons in Bach, 8. Minuet
-- [ ] First Lessons in Bach, 9. March
+- [x] First Lessons in Bach, 9. March
+- [x] First Lessons in Bach, 10. Minuet
+- [x] First Lessons in Bach, 11. Musette
+- [ ] First Lessons in Bach, 12. Bourree
+- [ ] Burgmuller Op 100, La Candeur
 
 -----------------------
 
-## Saturday, March 25. 2017
+## Sunday, April 16, 2017
+
+It's been a few weeks since I last reported in, but I'm happy to say I haven't
+missed a day yet. I'm just as motivated, if not more recently.
+
+I purchased Hanon and Czerny to mix in some more technical work into my
+practice routine. Despite all the negative things people say about Hanon,
+I think it's really effective as a finger-strengthening exercise. Plus, it's
+very easy to make up your own variations based on them (example: RH forte, LH
+piano, BH staccatto, swing, accents, etc). I try to spend no more than 10-15
+minutes per day on them, since technique is not really what's holding me back
+at the moment. I think it's mostly reading and expression that are the main
+bottlenecks.
+
+I've also been working in at least 10 minutes of sight-reading new material.
+This is my weakest area, and I feel like it's really helping my fundamentals
+by reading through absolute beginner-level pieces. I'm starting to recognize
+notes, patterns, and chords (at least the simple ones) much faster now.
+
+Still working through First Lessons in Bach - I've encountered a really
+challenging bourree that requires more hand independence than any of the prior
+pieces, so it is a good challenge for me. I've also started working in some of
+the Burgmuller etudes, which many people recommend for late beginners. They
+are fun to play, and actually sound pretty nice.
+
+Looks like I'll easily be able to hit the 20 pieces goal. Once I hit it, I'll
+try to extend it to something realistic that I can achieve by the end of the
+year.
+
+## Saturday, March 25, 2017
 
 Was on vacation in FL last week, so couldn't play at all. But I got back into
 my routine this week and continued to work on the march. This piece is

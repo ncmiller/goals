@@ -1,4 +1,26 @@
-## Saturday, March 25. 2017
+## Sunday, April 16, 2017
+
+Running has been going well. I haven't missed any days. I've been running
+between 21-25 MPW, and my overall pace has been steadily increasing. I've also
+upped my weekly runs from running a 5K to running 30 minutes. This works out
+to almost 4 miles at my current pace. My comfortable 30-minute pace is 7.6,
+which I'm about to increase to 7.8. Once I reach a comfortable 8.0 pace, I'll
+probably start taking shots at fast 5K times (22 min and below).
+
+My Saturday 10K runs have been getting easier too. I'm now able to run
+comfortably at 7.2 mph for a full hour without getting too winded.
+
+Last Sunday, I took a shot at a 6 minute mile - and made it! That's the
+fastest I've ever run a mile. I remember in middle school when they timed me
+I got around 6:30 I think, so I think this is the most aerobically fit I've
+ever been. I was really tired after that run though. It went by so fast, but
+when I was done, I was reminded of that nauseous feeling you get when you've
+pushed your body to the limit.
+
+I wanted to go for another 6-minute mile today, but my knee is feeling
+a little off, so I figured it's best to take a rest day.
+
+## Saturday, March 25, 2017
 
 Went on vacation to FL last week, which made it tough to be consistent with
 running. Regardless, I still ran 3 days of the week, including a 10K. The

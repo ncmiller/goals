@@ -12,5 +12,5 @@ Personal goals for the near-term (next year or so). When it comes to goal tracki
 | | 21-minute 5K, 8.9 mph | September 30 | <ul><li> [ ] </li></ul> |
 | | 20-minute 5K, 9.4 mph | December 31 | <ul><li> [ ] </li></ul> |
 | **Learn 20 new piano pieces** | Play every day for a month | February 15 | <ul><li> [x] Feb 15, 2017 </li></ul> |
-| | Learn 10 new pieces | July 31 | <ul><li> [ ] </li></ul> |
+| | Learn 10 new pieces | July 31 | <ul><li> [x] April 5, 2017 </li></ul> |
 | | Learn 20 new pieces | December 31 | <ul><li> [ ] </li></ul> |
