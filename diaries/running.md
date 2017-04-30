@@ -1,3 +1,16 @@
+## Sunday, April 30, 2017
+
+It turns out I injured my knee worse than I thought two weeks ago. I took tne
+past two weeks off from running, and have filled in with biking and rowing.
+I actually really like rowing - it's a great full-body workout, and is really
+low-impact on the knees. I may even make it part of my normal weekly routine,
+since it seems like maybe I was running too much too soon.
+
+I had my first run since the injury yesterday, and it went well. I took it
+easy running at 6.8 mph for 30 minutes. Knees feel fine today. I'll run every
+other day from here and see how it goes. The off days will be weight lifting
+and rowing.
+
 ## Sunday, April 16, 2017
 
 Running has been going well. I haven't missed any days. I've been running

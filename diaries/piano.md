@@ -15,10 +15,38 @@ be really polished.
 - [x] First Lessons in Bach, 9. March
 - [x] First Lessons in Bach, 10. Minuet
 - [x] First Lessons in Bach, 11. Musette
+- [x] Burgmuller Op 100, La Candeur
 - [ ] First Lessons in Bach, 12. Bourree
-- [ ] Burgmuller Op 100, La Candeur
+- [ ] Burgmuller Op 100, Arabesque
 
 -----------------------
+
+## Sunday, April 30, 2017
+
+The past two weeks have been focused on finding a good balance between
+practicing technical skills and working on pieces. I try to spend no more than
+10 minutes on scales and Hanon, then another 5-10 minutes on Czerny, then 5-10
+minutes on sight-reading. All in all, the technical work takes about 30
+minutes, leaving 30 minutes to practice pieces. I'm currently working through
+2 at a time, so that's 15 minutes each.
+
+I'd also like to start practicing ear training, but have had a hard time trying to
+find a straightforward approach online. There is a lot of different advice,
+but the most common seems to be centered around solfege, which helps
+connect the dots between sight-reading, sight-singing, hearing notes before
+you play them, transcribing songs, etc. I think I will try to mix in 5-10
+minutes of that into my routine. Might have to set aside 1h15m for practice.
+
+The Bach Bourree is kicking my ass. It's just very difficult to get into my
+hands. It's compicated because of the independent hand articulations, and the
+fact that the melody and harmony bounce around and modulate so much. It's the
+first piece that has taken more than 2 weeks to play through.
+
+I spent about 1.5 hours yesterday poking through a piece that is way above me.
+I was reminded that playing a stretch piece more than 1 level beyond is
+a colossal waste of time. Of that 1.5 hours, I probably spent 10 minutes
+actually playing and learning something useful. It was just a really
+frustrating experience. I feel kind of ashamed at my impatience.
 
 ## Sunday, April 16, 2017
 
