@@ -1,3 +1,28 @@
+## Sunday, May 21, 2017
+
+Total bummer, dude. Still battling injury in my right knee - it hasn't quite
+fully healed. The best course of action is to let it heal for a couple of
+weeks while I do low-impact exercise. Unfortunately, it most likely means
+I won't be able to stay on track for my goals. End of June is the 22-minute
+5K. Perhaps still doable.
+
+I'm going to invest in better shoes. I like Asiics and think they're super
+comfortable, but I don't think they're right for the shape of my foot. The
+shoe has a high arch, and so does my foot, and from what I've read, i should
+be looking for a more flat-soled shoe. I have a problem of under-pronation,
+which means I land and push from the outside of feet. Neutral shoes with extra
+cushioning may be able to help.
+
+In the mean time, I've been rowing and biking. I might toss the biking though,
+since it only works lower body and doesn't burn many calories in the 30
+minutes I have to exercise in the morning. I've been getting better at rowing.
+I was able to row 8K in 30 minutes, which is decent for a beginner. I'll mix
+in some elliptical work to see if that can be a replacement for running.
+
+Depending on how the next 4-6 weeks go, I may have to abandon running
+altogether a rework my goals.
+
+
 ## Sunday, April 30, 2017
 
 It turns out I injured my knee worse than I thought two weeks ago. I took tne

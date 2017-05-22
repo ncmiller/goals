@@ -16,10 +16,42 @@ be really polished.
 - [x] First Lessons in Bach, 10. Minuet
 - [x] First Lessons in Bach, 11. Musette
 - [x] Burgmuller Op 100, La Candeur
-- [ ] First Lessons in Bach, 12. Bourree
-- [ ] Burgmuller Op 100, Arabesque
+- [x] First Lessons in Bach, 12. Bourree
+- [x] Burgmuller Op 100, Arabesque
+- [ ] Haydn, Allegro in F maj
+- [ ] First Lessons in Bach, 13. Mussette
 
 -----------------------
+
+## Sunday, May 21, 2017
+
+I'm pleased with the progress I've been making. My patience was starting to
+run thin after practicing the Bach Bourree for over a month, but eventually
+I was able to play through at a reasonable tempo, with repeats, without any
+mistakes. Definitely the toughest piece I've faced so far.
+
+I've been trying to assess my approximate level within the RCM and ABRSM
+grading system. I' think I'm at an early level 4 ABRSM, level 5 RCM. I've
+decided I want to start mixing in ABRSM syllabus pieces, so I'm starting with
+a Haydn piece from the 2014-2015 grade 4 pieces. It's a bit of a challenge,
+but nothing I can't handle so far. It's nicely stretches my current limits, so
+it's pretty ideal at the moment.
+
+Following the ABRSM syllabus will help fill any gaps in my knowledge or
+technique. Alongside, there is theory and aural training which I will try to
+stay up to speed on. From a technique and theory perspective, I'm probably at
+a grade 5, so mostly just trying to get the standard pieces up to snuff. My
+ear training is pretty decent too, but could use some dusting off.
+
+I'm going to continue to push through First Lessons in Bach. It will be a nice
+accomplishment once I complete every piece. Currently working through
+a light-hearted mussette.
+
+I haven't needed to use the pedal on any piece yet. I think the conventional
+wisdom is that pedal usage doesn't get introduced until about level 5 ABRSM.
+It's good to have that foundation, since overuse of pedal is one of those
+tell-tale signs of a pianist who still has much to learn (I'm definitely
+guilty of this - I'm looking at you Chopin Prelude in E Minor).
 
 ## Sunday, April 30, 2017
 
