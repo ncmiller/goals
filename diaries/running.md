@@ -1,3 +1,17 @@
+## Wedensday, August 2, 2017
+
+Super long time since last update. The injury from my last entry really slowed
+down my progress, but I'm much better now with my new shoes. I got a pair
+of Asiics Gel Cumulus 18, which I read was good for under-pronaters, and I've
+been running for a good 2 months without any injuries.
+
+Generally, just trying to increase my mileage, since most experienced runners
+say the speed comes once you up your distance and MPW. I'm nearing 30 MPW.
+Last Sunday, I ran up to pier 39 and back, which was about 8.25 miles - a PB.
+
+I will test my current 5K time in the next 2 weeks. Hopefully I'll be able to
+break 22 minutes.
+
 ## Sunday, May 21, 2017
 
 Total bummer, dude. Still battling injury in my right knee - it hasn't quite

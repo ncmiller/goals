@@ -18,10 +18,28 @@ be really polished.
 - [x] Burgmuller Op 100, La Candeur
 - [x] First Lessons in Bach, 12. Bourree
 - [x] Burgmuller Op 100, Arabesque
-- [ ] Haydn, Allegro in F maj
-- [ ] First Lessons in Bach, 13. Mussette
+- [x] Haydn, Allegro in F maj (90 bpm, a little too advanced)
+- [x] First Lessons in Bach, 13. Mussette
+- [x] First Lessons in Bach, 14. Minuet in C Minor
+- [ ] First Lessons in Bach, 15. Gavotte in G minor
+- [ ] Couperin, Carnival Scene
 
 -----------------------
+
+## Wednesday, August 2, 2017
+
+Looong time since the last update.
+
+Things are moving along nicely. I've been consistent and regimented with my
+practice routine, and I can feel the progress. I have been challenging myself
+with some difficult pieces, some of which are too difficult and I drop them.
+I thought I was ready for ABRSM grade 4 pieces, but I'm not quite there.
+I played through Haydn's Allegro in F at 80-90 bpm, but my technique is
+preventing me from going much faster, so I'd say I'm another half year to full
+year off from being at a grade 4 level. In the meantime, I'm continuing with
+First Lessons in Bach, and starting to tackle some early intermediate pieces.
+
+Only 3 more pieces to go until I meet my year-end goal!
 
 ## Sunday, May 21, 2017
 
