@@ -21,8 +21,9 @@ be really polished.
 - [x] Haydn, Allegro in F maj (90 bpm, a little too advanced)
 - [x] First Lessons in Bach, 13. Mussette
 - [x] First Lessons in Bach, 14. Minuet in C Minor
+- [x] Couperin, Carnival Scene
 - [ ] First Lessons in Bach, 15. Gavotte in G minor
-- [ ] Couperin, Carnival Scene
+- [ ] Kuhnau, Prelude
 
 -----------------------
 

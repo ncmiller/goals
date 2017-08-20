@@ -1,4 +1,8 @@
-## Wedensday, August 2, 2017
+## Sunday, August 20, 2017
+
+Hooray, 22 min 5K (new peanut butter)! Better late than never.
+
+## Wednesday, August 2, 2017
 
 Super long time since last update. The injury from my last entry really slowed
 down my progress, but I'm much better now with my new shoes. I got a pair
