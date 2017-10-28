@@ -22,10 +22,26 @@ be really polished.
 - [x] First Lessons in Bach, 13. Mussette
 - [x] First Lessons in Bach, 14. Minuet in C Minor
 - [x] Couperin, Carnival Scene
-- [ ] First Lessons in Bach, 15. Gavotte in G minor
+- [x] First Lessons in Bach, 15. Gavotte in G minor
+- [ ] First Lessons in Bach, 16. March
 - [ ] Kuhnau, Prelude
 
 -----------------------
+
+## Saturday, October 28, 2017
+
+Welp, I hit a bit of a slump. I've only practiced about twice in the last
+month. My schedule got messed up when I injured my back and took a break from
+running. This happened to coincide with getting really busy at work, so
+I started trading piano time for getting into the office earlier. But these
+are all excuses, and the truth is, I could have made time for piano if
+I wanted to.
+
+That being said, I think I will still be able to meet my original goal of 20
+piano pieces. I've hit 19, and I've got two in the works now. Since it seems
+like my running goal won't be achievable, at least I'll be able to say
+I completed this one. I might have to do the 30-day challenge again to keep
+myself focused.
 
 ## Wednesday, August 2, 2017
 

@@ -1,3 +1,14 @@
+## Sunday, October 28, 2017
+
+Injured my back about a month ago, so I haven't been running much at all. Just
+when I think I'm back to 100%, I'll go for a run and my back will be stiff and
+sore. I'm not sure what happened. Perhaps the elliptical will be less
+stressful on my back. I might try running outside too to see if something
+changes.
+
+I will likely not be able to meet my goal, since it would require me to
+continue running every day, which doesn't seem possible right now. *sigh*
+
 ## Sunday, August 20, 2017
 
 Hooray, 22 min 5K (new peanut butter)! Better late than never.
