@@ -23,10 +23,17 @@ be really polished.
 - [x] First Lessons in Bach, 14. Minuet in C Minor
 - [x] Couperin, Carnival Scene
 - [x] First Lessons in Bach, 15. Gavotte in G minor
-- [ ] First Lessons in Bach, 16. March
-- [ ] Kuhnau, Prelude
+- [x] Haydn, 12 German Dances, Hob. IX:10
 
 -----------------------
+
+## Sunday, December 31, 2017
+
+I hit my goal of learning 20 pieces this year, hooray! Although it was a limp
+across the finish line. I've been very inconsistent these past few months, and
+I had to work an easier piece at the end just to make the end-of-year cutoff.
+Motivation was a big factor, especially when practicing the "weirder" pieces
+that didn't have traditional harmony or structure.
 
 ## Saturday, October 28, 2017
 

@@ -1,3 +1,17 @@
+## Sunday, December 31, 2017
+
+I failed to meet my goal, but I'm still happy with my results. I was able to
+run a 22 minute 5K, and my overall level of fitness is higher than it was at
+the start of the year.
+
+Next year's goal will probably be more focused on miles per week than
+a particular 5K time. Other people suggest that runners should focus on
+distance first and the speed will come.
+
+I'll be starting to mix in strength workouts along with running, so won't be
+running every day. But it seems like 15 MPW over the whole year should be
+achievable.
+
 ## Sunday, October 28, 2017
 
 Injured my back about a month ago, so I haven't been running much at all. Just
